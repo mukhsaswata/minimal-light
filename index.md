@@ -4,20 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student at School of Computing, NUS, under guidance of [Prof. Divesh Aggrawal](https://sites.google.com/site/diveshhomepage/) and Prof. Maciej Obremski. Prior to that, I obtained master's degree in Computer Science (2022-'24) and bachelor's degree in Mathematics and Computer Science (2019-'22) from Chennai Mathematical Insitute. During my masters, I was fortunate to have Prof. Amit Kumar Sinhababu as my thesis advisor. 
+I am a PhD student at [School of Computing](https://www.comp.nus.edu.sg/), NUS, under guidance of [Prof. Divesh Aggrawal](https://sites.google.com/site/diveshhomepage/) and [Prof. Maciej Obremski](https://sites.google.com/view/maciejobremski). Prior to that, I obtained master's degree in Computer Science (2022-'24) and bachelor's degree in Mathematics and Computer Science (2019-'22) from [Chennai Mathematical Insitute](https://www.cmi.ac.in/). During my masters, I was fortunate to have [Prof. Amit Kumar Sinhababu](https://scholar.google.com/citations?user=BddOgm0AAAAJ&hl=en) as my thesis advisor. 
 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Algebraic and Boolean Complexity Theory, Pseudorandomness, Algebraic Algorithms, Information Theoretic Cryptography
+- **Pseudorandomness
+- **Information Theoretic Cryptography
+- ** Algebraic Algorithms
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
