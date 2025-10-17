@@ -9,7 +9,7 @@ I am a PhD student at [School of Computing](https://www.comp.nus.edu.sg/), NUS, 
 
 ## Research Interests
 
-- **Algebraic and Boolean Complexity Theory, Pseudorandomness, Algebraic Algorithms, Information Theoretic Cryptography
+- **Algebraic and Boolean Complexity Theory
 - **Pseudorandomness
 - **Information Theoretic Cryptography
 - ** Algebraic Algorithms
