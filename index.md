@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a PhD student at School of Computing, NUS, under guidance of [Prof. Divesh Aggrawal](https://sites.google.com/site/diveshhomepage/) and Prof. Maciej Obremski. Prior to that, I obtained master's degree in Computer Science (2022-'24) and bachelor's degree in Mathematics and Computer Science (2019-'22) from Chennai Mathematical Insitute. During my masters, I was fortunate to have Prof. Amit Kumar Sinhababu as my thesis advisor. 
+
 
 ## Research Interests
 
